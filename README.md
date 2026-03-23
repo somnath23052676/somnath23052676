@@ -62,40 +62,6 @@ I'm a third-year Computer Science student at **KIIT University, Bhubaneswar**, d
 
 ---
 
-## 🚀 Projects
-
-### 🎬 Movie Recommender System
-> *Recommending movies the smart way — using language understanding, not just tags.*
-
-- Built using **spaCy** and **Natural Language Processing** techniques
-- Understands user preferences through semantic similarity
-- Demonstrates practical application of NLP in a real-world recommendation engine
-
----
-
-### 🖥️ Terminal Login Screen
-> *Because your terminal should be as beautiful as your code.*
-
-- Custom **Bash script** for a personalized Linux terminal login experience
-- Showcases system-level scripting and Linux customization skills
-- Part of a broader passion for crafting the perfect development environment
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Verify |
-|---|---|---|
-| 🏆 Machine Learning with Python | IBM via Coursera | [Verify](https://coursera.org/verify/SRR6VU7NUWXE) |
-| 📊 Introduction to Data Analytics | IBM via Coursera | [Verify](https://coursera.org/verify/P9V8CHNVCFMU) |
-| ☕ Java (Basic) | HackerRank | ✅ Verified |
-| 🐍 Problem Solving (Basic) | HackerRank | ✅ Verified |
-| 🐍 Python (Basic) | HackerRank | ✅ Verified |
-| 🗄️ Introduction to SQL | Online Course | Certificate Code: 4673442 |
-| ☕ Java Programming A–Z Fundamentals | Online Course | Certificate Code: 4659628 |
-
----
-
 ## 📈 LeetCode Stats
 
 <div align="center">
@@ -103,18 +69,6 @@ I'm a third-year Computer Science student at **KIIT University, Bhubaneswar**, d
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Somnath23052676?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/Somnath23052676/)
 
 > 💡 **250+ problems solved** and counting — consistent daily practice in DSA
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Somnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somnath23052676&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath23052676&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
