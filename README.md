@@ -56,6 +56,7 @@ I'm a third-year Computer Science student at **KIIT University, Bhubaneswar**, d
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-250%2B%20Problems-00C853?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
