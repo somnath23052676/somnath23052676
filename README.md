@@ -16,7 +16,7 @@
 
 I'm a CS student at KIIT, Bhubaneswar, interested in algorithms, machine learning, and Linux systems. I enjoy solving hard problems and building things from scratch.
 
-- Practicing DSA — 250+ LeetCode problems solved
+- Practicing DSA — 400+ LeetCode problems solved
 - Exploring Machine Learning & NLP
 - Linux enthusiast — I daily drive and rice my own setup
 - Open to internships in software development / ML / data science
